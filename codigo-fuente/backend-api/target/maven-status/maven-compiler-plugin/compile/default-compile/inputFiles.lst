@@ -1,0 +1,5 @@
+/app/backend-api/src/main/java/cl/duoc/backend_api/BackendApiApplication.java
+/app/backend-api/src/main/java/cl/duoc/backend_api/controller/ProductoController.java
+/app/backend-api/src/main/java/cl/duoc/backend_api/model/Producto.java
+/app/backend-api/src/main/java/cl/duoc/backend_api/repository/ProductoRepository.java
+/app/backend-api/src/main/java/cl/duoc/backend_api/service/ProductoService.java
