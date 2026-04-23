@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | Módulo de Registro | 8080 | universidad_backend | CRUD de usuarios |
 | Módulo de Catálogo | 8081 | universidad_backend | CRUD de Productos (Prendas) |
-| Módulo de Carrito | 8082 | universidad_backend | CRUD de itemcarrito |
+| Módulo de Carrito | 8084 | universidad_backend | CRUD de itemcarrito |
 
 #### Despliegue Técnico
 - **Instancia:** AWS EC2 t3.large (Ubuntu 24.04)
